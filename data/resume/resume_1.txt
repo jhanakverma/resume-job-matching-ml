@@ -1,0 +1,3 @@
+Software engineer with experience in Python, SQL, Django, and AWS.
+Worked on backend systems and data workflows.
+Interested in machine learning and natural language processing.

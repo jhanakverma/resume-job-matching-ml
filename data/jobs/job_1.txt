@@ -1,0 +1,3 @@
+We are hiring a machine learning engineer with strong Python skills.
+The role involves building NLP systems, data pipelines, and deploying models.
+Experience with backend development and cloud platforms is a plus.
