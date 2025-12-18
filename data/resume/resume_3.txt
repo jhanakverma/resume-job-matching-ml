@@ -1,0 +1,3 @@
+Machine learning engineer experienced in NLP, embeddings, and model deployment.
+Built production ML pipelines using Python and cloud platforms.
+Worked on semantic search and recommendation systems.
